@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Noise2Sim
-description: A unsupervised denoising method.
+description: A unsupervised deep denoising method.
 img: assets/img/noise2sim.png
 importance: 1
 category: work
