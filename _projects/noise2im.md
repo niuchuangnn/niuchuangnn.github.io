@@ -12,7 +12,5 @@ category: work
 </p>
 
 <p align="center">
-
-[Paper](https://arxiv.org/abs/2011.03384) [Code](https://github.com/niuchuangnn/noise2sim) [Data](https://github.com/niuchuangnn/noise2sim)
-
+<a href="https://arxiv.org/abs/2011.03384">Paper</a>  <a href="https://github.com/niuchuangnn/noise2sim">Code</a>  <a href="https://github.com/niuchuangnn/noise2sim">Data</a>
 </p>
