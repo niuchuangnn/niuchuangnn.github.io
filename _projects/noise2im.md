@@ -7,8 +7,20 @@ importance: 1
 category: work
 ---
 
+<head>
+<style>
+code {
+  font-family: Consolas,"courier new";
+  color: crimson;
+  background-color: #f1f1f1;
+  padding: 2px;
+  font-size: 105%;
+}
+</style>
+</head>
+
 <p align="center">
-<iframe width="840" height="473" src="https://www.youtube.com/embed/G1RJV7h9YhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="672" height="378" src="https://www.youtube.com/embed/G1RJV7h9YhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <p align="center">
@@ -20,18 +32,21 @@ category: work
 
 <h2>Introduction</h2>
 
-<p style="text-align:justify;">
-Denoising is a prerequisite for image analysis tasks in many fields.
-Supervised deep denoising methods are popular but they require paired clean or noisy samples that are often unavailable in practice.
-Here we propose the first similarity-based unsupervised deep denoising approach, referred to as Noise2Sim, that works in a nonlocal
-and nonlinear fashion to suppress not only independent but also correlated noises.
+<p style="text-align:justify;font-size:24px">
+Noise2Sim is the first similarity-based unsupervised deep denoising approach using noisy images only,
+Noise2Sim can suppress not only independent but also correlated noises.
 Theoretically, Noise2Sim is equivalent to supervised denoising under mild conditions.
-Experimental results on common benchmarks and practical datasets show that
-Nosie2Sim recovers intrinsic structures from noisy low-dose and photon-counting CT images, and is competitive to or even better than
-the supervised learning methods.
+Experimental results on common benchmarks and practical CT datasets show that
+Nosie2Sim recovers intrinsic structures from noisy low-dose and photon-counting CT images,
+and is competitive to or even better than the supervised learning methods.
+Read <a href="https://arxiv.org/abs/2011.03384">Paper</a> for more details.
 </p>
 
 <h2>Installation</h2>
+<p style="text-align:justify;font-size:24px">
+Assuming <a href="https://arxiv.org/abs/2011.03384">Pytorch</a> is installed,
+"nois2sim" package can be easily installed using <code>pip install noise2sim</code>.
+</p>
 
 <h2>Datasets</h2>
 
