@@ -44,11 +44,12 @@ Read <a href="https://arxiv.org/abs/2011.03384">Paper</a> for more details.
 
 <h2>Installation</h2>
 <p style="text-align:justify;font-size:20px">
-Assuming <a href="https://arxiv.org/abs/2011.03384">Pytorch</a> is installed,
-"nois2sim" package can be easily installed using <code>pip install noise2sim</code>.
+First, <a href="https://arxiv.org/abs/2011.03384">Pytorch</a> is required.
+Then, "nois2sim" package can be easily installed using <code>pip install noise2sim</code>.
 </p>
 
 <h2>Datasets</h2>
+
 
 <h2>Tutorial</h2>
 
