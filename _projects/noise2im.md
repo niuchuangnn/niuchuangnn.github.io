@@ -68,7 +68,7 @@ and <a href="http://www.cs.albany.edu/~xypan/research/snr/Kodak.html">Kodak</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>LDCT Data (Mayo):</b> .
+<b>LDCT Data (Mayo):</b> <a href="http://www.aapm.org/grandchallenge/lowdosect/">Mayo</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
@@ -95,6 +95,12 @@ and <a href="https://drive.google.com/file/d/14n7IGVLsGBoRRiZ1Gps78wLP_lpU6ADQ/v
 
 
 <h2>Tutorial</h2>
-Detail instructions for using Noise2Sim package are <a href="https://github.com/niuchuangnn/noise2sim">Here</a>.
+<p style="text-align:justify;font-size:20px">
+Detail instructions including training and testing denoising models with Noise2Sim package are <a href="https://github.com/niuchuangnn/noise2sim">here</a>.
+</p>
+
+{% include figure.html path="assets/img/ct-search.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
+{% include figure.html path="assets/img/nisearch.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
