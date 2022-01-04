@@ -55,23 +55,26 @@ Noise2Sim has the potential in various applications.
 Here Noise2Sim was applied to denoising natural images with independent noise,
 low-dose CT (LDCT) and photon-counting CT (PCCT) images with correlated noises.
 All datasets can be freely accessed as follows.
-
-<b>Natural Images (grayscale): <\b>
-
-<b>Natural Images (color): <\b>
-
-<b>LDCT Data (Mayo): <\b>
-
-<b>LDCT Data (FDA): <\b>
-
-<b>PCCT Data (chicken drumstick): <\b>
-
-<b>PCCT Data (live mouse): <\b>
-
-<b>PCCT Data (died mouse): <\b>
-
 </p>
+
+<p style="text-align:justify;font-size:20px"> <b>Natural Images (grayscale):<\b></p>
+
+<p style="text-align:justify;font-size:20px"><b>Natural Images (color):<\b></p>
+
+<p style="text-align:justify;font-size:20px"><b>LDCT Data (Mayo):<\b></p>
+
+<p style="text-align:justify;font-size:20px"><b>LDCT Data (FDA):<\b></p>
+
+<p style="text-align:justify;font-size:20px"><b>PCCT Data (chicken drumstick):<\b></p>
+
+<p style="text-align:justify;font-size:20px"><b>PCCT Data (live mouse):<\b></p>
+
+<p style="text-align:justify;font-size:20px"><b>PCCT Data (died mouse):<\b></p>
+
+
 
 
 <h2>Tutorial</h2>
+Detail instructions for using Noise2Sim package are <a href="https://github.com/niuchuangnn/noise2sim">Here</a>.
+
 
