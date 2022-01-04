@@ -58,21 +58,21 @@ All datasets can be freely accessed as follows.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>Natural Images (grayscale):</b> <a href="https://github.com/niuchuangnn/noise2sim/tree/master/datasets/Train400">BSD400</a>
+Natural Images (grayscale): <a href="https://github.com/niuchuangnn/noise2sim/tree/master/datasets/Train400">BSD400</a>
 and <a href="https://drive.google.com/drive/folders/1b_RvBwIr9yLg8yPWb0BHYmWiOEVUvG4K?usp=sharing">BSD68</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px"> 
-<b>Natural Images (color):</b> <a href="http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/">BSD500</a>
+Natural Images (color): <a href="http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/">BSD500</a>
 and <a href="http://www.cs.albany.edu/~xypan/research/snr/Kodak.html">Kodak</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>LDCT Data (Mayo):</b> <a href="http://www.aapm.org/grandchallenge/lowdosect/">Mayo</a>.
+LDCT Data (Mayo): <a href="http://www.aapm.org/grandchallenge/lowdosect/">Mayo</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>LDCT Data (FDA):</b> <a href="https://www.cancerimagingarchive.net/viewer/?study=1.3.12.2.1107.5.1.4.60175.30000008042114404745300000016&series=1.3.12.2.1107.5.1.4.60175.30000008042113424165600232150&token=653e92d2-78d2-4f49-8a4e-bc169676afac">LDCT-b40f</a>,
+LDCT Data (FDA): <a href="https://www.cancerimagingarchive.net/viewer/?study=1.3.12.2.1107.5.1.4.60175.30000008042114404745300000016&series=1.3.12.2.1107.5.1.4.60175.30000008042113424165600232150&token=653e92d2-78d2-4f49-8a4e-bc169676afac">LDCT-b40f</a>,
 <a href="https://www.cancerimagingarchive.net/viewer/?study=1.3.12.2.1107.5.1.4.60175.30000008042114404745300000004&series=1.3.12.2.1107.5.1.4.60175.30000008042113424165600181551&token=653e92d2-78d2-4f49-8a4e-bc169676afac">NDCT-b40f</a>,
 <a href="https://www.cancerimagingarchive.net/viewer/?study=1.3.12.2.1107.5.1.4.60175.30000008042114404745300000016&series=1.3.12.2.1107.5.1.4.60175.30000008042113424165600232848&token=653e92d2-78d2-4f49-8a4e-bc169676afac">LDCT-b60f</a>,
 <a href="https://www.cancerimagingarchive.net/viewer/?study=1.3.12.2.1107.5.1.4.60175.30000008042114404745300000004&series=1.3.12.2.1107.5.1.4.60175.30000008042113424165600180853&token=653e92d2-78d2-4f49-8a4e-bc169676afac">NDCT-b60f-1</a>,
@@ -80,17 +80,17 @@ and <a href="http://www.cs.albany.edu/~xypan/research/snr/Kodak.html">Kodak</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>PCCT Data (chicken drumstick):</b> <a href="https://drive.google.com/file/d/1x6uaSWgEoQw9ZINVfnOc_MxKjZHmY0MP/view?usp=sharing">LDPCCT</a>,
+PCCT Data (chicken drumstick): <a href="https://drive.google.com/file/d/1x6uaSWgEoQw9ZINVfnOc_MxKjZHmY0MP/view?usp=sharing">LDPCCT</a>,
 <a href="https://drive.google.com/file/d/1bV0n8L6AbeXLIUY_9lvTL7Tvvmhx3NQT/view?usp=sharing">NDPCCT</a>,
 and <a href="https://drive.google.com/file/d/14n7IGVLsGBoRRiZ1Gps78wLP_lpU6ADQ/view?usp=sharing">NDPCCT-reference</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>PCCT Data (live mouse):</b> <a href="https://drive.google.com/file/d/10fQIxurCiLips0pc5sut_qtGDHWclSOG/view?usp=sharing">NDPCCT</a>.
+PCCT Data (live mouse): <a href="https://drive.google.com/file/d/10fQIxurCiLips0pc5sut_qtGDHWclSOG/view?usp=sharing">NDPCCT</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>PCCT Data (died mouse):</b> <a href="https://drive.google.com/file/d/1UaS6YdPZ_M0opxpIaUXjbydNq1IlVDiG/view?usp=sharing">NDPCCT</a>.
+PCCT Data (died mouse): <a href="https://drive.google.com/file/d/1UaS6YdPZ_M0opxpIaUXjbydNq1IlVDiG/view?usp=sharing">NDPCCT</a>.
 </p>
 
 
@@ -99,7 +99,7 @@ and <a href="https://drive.google.com/file/d/14n7IGVLsGBoRRiZ1Gps78wLP_lpU6ADQ/v
 Detail instructions including training and testing denoising models with Noise2Sim package are <a href="https://github.com/niuchuangnn/noise2sim">here</a>.
 </p>
 
-<h2>Simple training process derived from Noise2Sim theorem</h2>
+<h2>Training algorithms derived from Noise2Sim theorem</h2>
 
 {% include figure.html path="assets/img/ct-search.png" title="CT" class="img-fluid rounded z-depth-1" %}
 <p style="text-align:justify;font-size:20px">
@@ -112,7 +112,7 @@ where the dissimilar vectors identified in a mask image are excluded during trai
 <p style="text-align:justify;font-size:20px">
 Noise2Sim training process on 2D images with independent noise.
 Step 1 is to search for a set of k similar pixels for each pixel in the original noisy image,
-and form $k$ most similar images, which is also referred to as nearest images.
-Step 2 is to randomly construct a pair of similar images as the input and the target to train a convolutional neural network (CNN).
+and form k most similar images, which is also referred to as nearest images.
+Step 2 is to randomly construct a pair of similar images as the input and the target to train a deep neural network.
 </p>
 
