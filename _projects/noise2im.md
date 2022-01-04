@@ -37,8 +37,8 @@ Noise2Sim is the first similarity-based unsupervised deep denoising approach usi
 suppressing not only independent but also correlated noises.
 Theoretically, Noise2Sim is equivalent to supervised denoising under mild conditions.
 On common benchmarks and practical CT datasets,
-Nosie2Sim recovers intrinsic structures from noisy low-dose and photon-counting CT images,
-and is competitive to or even better than the supervised learning methods.
+Nosie2Sim recovers intrinsic structures from noisy low-dose and photon-counting CT images 
+as effectively as or even better than the supervised learning methods.
 Read <a href="https://arxiv.org/abs/2011.03384">Paper</a> for more details.
 </p>
 
@@ -46,9 +46,31 @@ Read <a href="https://arxiv.org/abs/2011.03384">Paper</a> for more details.
 <p style="text-align:justify;font-size:20px">
 Noise2Sim package can be easily installed using <code>pip install noise2sim</code>.
 Note that <a href="https://arxiv.org/abs/2011.03384">Pytorch</a> is required.
+The source code are available at <a href="https://github.com/niuchuangnn/noise2sim">GitHub</a>.
 </p>
 
 <h2>Datasets</h2>
+<p style="text-align:justify;font-size:20px">
+Noise2Sim has the potential in various applications.
+Here Noise2Sim was applied to denoising natural images with independent noise,
+low-dose CT (LDCT) and photon-counting CT (PCCT) images with correlated noises.
+All datasets can be freely accessed as follows.
+
+<b>Natural Images (grayscale): <\b>
+
+<b>Natural Images (color): <\b>
+
+<b>LDCT Data (Mayo): <\b>
+
+<b>LDCT Data (FDA): <\b>
+
+<b>PCCT Data (chicken drumstick): <\b>
+
+<b>PCCT Data (live mouse): <\b>
+
+<b>PCCT Data (died mouse): <\b>
+
+</p>
 
 
 <h2>Tutorial</h2>
