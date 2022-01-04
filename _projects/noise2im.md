@@ -99,8 +99,20 @@ and <a href="https://drive.google.com/file/d/14n7IGVLsGBoRRiZ1Gps78wLP_lpU6ADQ/v
 Detail instructions including training and testing denoising models with Noise2Sim package are <a href="https://github.com/niuchuangnn/noise2sim">here</a>.
 </p>
 
-{% include figure.html path="assets/img/ct-search.png" title="example image" class="img-fluid rounded z-depth-1" %}
+<h2>Simple training process derived from Noise2Sim theorem</h2>
 
-{% include figure.html path="assets/img/nisearch.png" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/ct-search.png" title="CT" class="img-fluid rounded z-depth-1" %}
+<p style="text-align:justify;font-size:20px">
+Noise2Sim training process on LDCT and PCCT.
+The similar volumes along the slice direction are selected to construct training samples,
+where the dissimilar vectors identified in a mask image are excluded during training.
+</p>
 
+{% include figure.html path="assets/img/nisearch.png" title="Natural Image" class="img-fluid rounded z-depth-1" %}
+<p style="text-align:justify;font-size:20px">
+Noise2Sim training process on 2D images with independent noise.
+Step 1 is to search for a set of k similar pixels for each pixel in the original noisy image,
+and form $k$ most similar images, which is also referred to as nearest images.
+Step 2 is to randomly construct a pair of similar images as the input and the target to train a convolutional neural network (CNN).
+</p>
 
