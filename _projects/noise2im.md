@@ -68,7 +68,7 @@ and <a href="http://www.cs.albany.edu/~xypan/research/snr/Kodak.html">Kodak</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>LDCT Data (Mayo):</b> <a href="http://www.aapm.org/grandchallenge/lowdosect/">Mayo</a>.
+<b>LDCT Data (Mayo):</b> .
 </p>
 
 <p style="text-align:justify;font-size:20px">
@@ -80,18 +80,18 @@ and <a href="http://www.cs.albany.edu/~xypan/research/snr/Kodak.html">Kodak</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>PCCT Data (chicken drumstick):</b>
+<b>PCCT Data (chicken drumstick):</b> <a href="https://drive.google.com/file/d/1x6uaSWgEoQw9ZINVfnOc_MxKjZHmY0MP/view?usp=sharing">LDPCCT</a>,
+<a href="https://drive.google.com/file/d/1bV0n8L6AbeXLIUY_9lvTL7Tvvmhx3NQT/view?usp=sharing">NDPCCT</a>,
+and <a href="https://drive.google.com/file/d/14n7IGVLsGBoRRiZ1Gps78wLP_lpU6ADQ/view?usp=sharing">NDPCCT-reference</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>PCCT Data (live mouse):</b>
+<b>PCCT Data (live mouse):</b> <a href="https://drive.google.com/file/d/10fQIxurCiLips0pc5sut_qtGDHWclSOG/view?usp=sharing">NDPCCT</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>PCCT Data (died mouse):</b>
+<b>PCCT Data (died mouse):</b> <a href="https://drive.google.com/file/d/1UaS6YdPZ_M0opxpIaUXjbydNq1IlVDiG/view?usp=sharing">NDPCCT</a>.
 </p>
-
-
 
 
 <h2>Tutorial</h2>
