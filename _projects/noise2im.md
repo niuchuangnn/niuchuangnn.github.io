@@ -96,7 +96,7 @@ PCCT Data (died mouse): <a href="https://drive.google.com/file/d/1UaS6YdPZ_M0opx
 
 <h2>Tutorial</h2>
 <p style="text-align:justify;font-size:18px">
-Detail instructions including training and testing denoising models with Noise2Sim package are <a href="https://github.com/niuchuangnn/noise2sim">here</a>.
+Instructions of training and testing denoising models with Noise2Sim package are <a href="https://github.com/niuchuangnn/noise2sim">here</a>.
 </p>
 
 <h2>Training algorithms derived from Noise2Sim theorem</h2>
