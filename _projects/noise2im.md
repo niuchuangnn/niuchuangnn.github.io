@@ -57,19 +57,33 @@ low-dose CT (LDCT) and photon-counting CT (PCCT) images with correlated noises.
 All datasets can be freely accessed as follows.
 </p>
 
-<p style="text-align:justify;font-size:20px"> <b>Natural Images (grayscale):<\b></p>
+<p style="text-align:justify;font-size:20px">
+<b>Natural Images (grayscale):</b>
+</p>
 
-<p style="text-align:justify;font-size:20px"><b>Natural Images (color):<\b></p>
+<p style="text-align:justify;font-size:20px">
+<b>Natural Images (color):</b>
+</p>
 
-<p style="text-align:justify;font-size:20px"><b>LDCT Data (Mayo):<\b></p>
+<p style="text-align:justify;font-size:20px">
+<b>LDCT Data (Mayo):</b>
+</p>
 
-<p style="text-align:justify;font-size:20px"><b>LDCT Data (FDA):<\b></p>
+<p style="text-align:justify;font-size:20px">
+<b>LDCT Data (FDA):</b>
+</p>
 
-<p style="text-align:justify;font-size:20px"><b>PCCT Data (chicken drumstick):<\b></p>
+<p style="text-align:justify;font-size:20px">
+<b>PCCT Data (chicken drumstick):</b>
+</p>
 
-<p style="text-align:justify;font-size:20px"><b>PCCT Data (live mouse):<\b></p>
+<p style="text-align:justify;font-size:20px">
+<b>PCCT Data (live mouse):</b>
+</p>
 
-<p style="text-align:justify;font-size:20px"><b>PCCT Data (died mouse):<\b></p>
+<p style="text-align:justify;font-size:20px">
+<b>PCCT Data (died mouse):</b>
+</p>
 
 
 
