@@ -58,19 +58,25 @@ All datasets can be freely accessed as follows.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>Natural Images (grayscale):</b>
+<b>Natural Images (grayscale):</b> <a href="https://github.com/niuchuangnn/noise2sim/tree/master/datasets/Train400">BSD400</a>
+and <a href="https://drive.google.com/drive/folders/1b_RvBwIr9yLg8yPWb0BHYmWiOEVUvG4K?usp=sharing">BSD68</a>.
+</p>
+
+<p style="text-align:justify;font-size:20px"> 
+<b>Natural Images (color):</b> <a href="http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/">BSD500</a>
+and <a href="http://www.cs.albany.edu/~xypan/research/snr/Kodak.html">Kodak</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>Natural Images (color):</b>
+<b>LDCT Data (Mayo):</b> <a href="http://www.aapm.org/grandchallenge/lowdosect/">Mayo</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
-<b>LDCT Data (Mayo):</b>
-</p>
-
-<p style="text-align:justify;font-size:20px">
-<b>LDCT Data (FDA):</b>
+<b>LDCT Data (FDA):</b> <a href="https://www.cancerimagingarchive.net/viewer/?study=1.3.12.2.1107.5.1.4.60175.30000008042114404745300000016&series=1.3.12.2.1107.5.1.4.60175.30000008042113424165600232150&token=653e92d2-78d2-4f49-8a4e-bc169676afac">LDCT-b40f</a>,
+<a href="https://www.cancerimagingarchive.net/viewer/?study=1.3.12.2.1107.5.1.4.60175.30000008042114404745300000004&series=1.3.12.2.1107.5.1.4.60175.30000008042113424165600181551&token=653e92d2-78d2-4f49-8a4e-bc169676afac">NDCT-b40f</a>,
+<a href="https://www.cancerimagingarchive.net/viewer/?study=1.3.12.2.1107.5.1.4.60175.30000008042114404745300000016&series=1.3.12.2.1107.5.1.4.60175.30000008042113424165600232848&token=653e92d2-78d2-4f49-8a4e-bc169676afac">LDCT-b60f</a>,
+<a href="https://www.cancerimagingarchive.net/viewer/?study=1.3.12.2.1107.5.1.4.60175.30000008042114404745300000004&series=1.3.12.2.1107.5.1.4.60175.30000008042113424165600180853&token=653e92d2-78d2-4f49-8a4e-bc169676afac">NDCT-b60f-1</a>,
+<a href="https://www.cancerimagingarchive.net/viewer/?study=1.3.12.2.1107.5.1.4.60175.30000008042114404745300000004&series=1.3.12.2.1107.5.1.4.60175.30000008042113424165600182490&token=653e92d2-78d2-4f49-8a4e-bc169676afac">NDCT-b60f-2</a>.
 </p>
 
 <p style="text-align:justify;font-size:20px">
