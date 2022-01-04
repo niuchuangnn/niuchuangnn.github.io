@@ -20,7 +20,7 @@ code {
 </head>
 
 <p align="center">
-<iframe width="728" height="409.5" src="https://www.youtube.com/embed/QU-4QdTydIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="764" height="430" src="https://www.youtube.com/embed/CDIyYijAyyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ Read <a href="https://arxiv.org/abs/2011.03384">Paper</a> for more details.
 <h2>Installation</h2>
 <p style="text-align:justify;font-size:20px">
 Noise2Sim package can be easily installed using <code>pip install noise2sim</code>.
-Note that First, <a href="https://arxiv.org/abs/2011.03384">Pytorch</a> is required.
+Note that <a href="https://arxiv.org/abs/2011.03384">Pytorch</a> is required.
 </p>
 
 <h2>Datasets</h2>
