@@ -25,7 +25,7 @@ code {
 
 <p align="center">
 <b>
-<a href="https://arxiv.org/abs/2011.03384">[Paper]</a>  <a href="https://github.com/niuchuangnn/noise2sim">[Code]</a>  <a href="https://github.com/niuchuangnn/noise2sim">[Data]</a>
+<a href="https://arxiv.org/abs/2011.03384">[Paper]</a>  <a href="https://github.com/niuchuangnn/noise2sim">[Code]</a>  <a href="#dataset">[Data]</a>
 </b>
 </p>
 
@@ -49,7 +49,9 @@ Note that <a href="https://arxiv.org/abs/2011.03384">Pytorch</a> is required.
 Source codes are available at <a href="https://github.com/niuchuangnn/noise2sim">GitHub</a>.
 </p>
 
-<h2>Datasets</h2>
+
+<h2><a id='dataset'>Datasets</a></h2>
+
 <p style="text-align:justify;font-size:18px">
 Noise2Sim has the potential in various applications.
 Here Noise2Sim was applied to denoising natural images with independent noise,
@@ -80,17 +82,17 @@ LDCT Data (FDA): <a href="https://www.cancerimagingarchive.net/viewer/?study=1.3
 </p>
 
 <p style="text-align:justify;font-size:18px">
-PCCT Data (chicken drumstick): <a href="https://drive.google.com/file/d/1x6uaSWgEoQw9ZINVfnOc_MxKjZHmY0MP/view?usp=sharing">LDPCCT</a>,
-<a href="https://drive.google.com/file/d/1bV0n8L6AbeXLIUY_9lvTL7Tvvmhx3NQT/view?usp=sharing">NDPCCT</a>,
-and <a href="https://drive.google.com/file/d/14n7IGVLsGBoRRiZ1Gps78wLP_lpU6ADQ/view?usp=sharing">NDPCCT-reference</a>.
+PCCT Data (chicken drumstick): <a href="https://drive.google.com/file/d/1IAOy3Ifzj_KOHBceomV7NZ1Tp5JWb1Mq/view?usp=sharing">LDPCCT</a>,
+<a href="https://drive.google.com/file/d/1imlluEATIC9F3wEY5LICDir1vcsHwnGT/view?usp=sharing">NDPCCT</a>,
+and <a href="https://drive.google.com/file/d/1v4_vpW8vaporF3Rez1ysjga1SWQrakQb/view?usp=sharing">NDPCCT-reference</a>.
 </p>
 
 <p style="text-align:justify;font-size:18px">
-PCCT Data (live mouse): <a href="https://drive.google.com/file/d/10fQIxurCiLips0pc5sut_qtGDHWclSOG/view?usp=sharing">NDPCCT</a>.
+PCCT Data (live mouse): <a href="https://drive.google.com/file/d/1tU_QRLLjYK-VFbKMnPmxCXvmexYDxiX1/view?usp=sharing">NDPCCT</a>.
 </p>
 
 <p style="text-align:justify;font-size:18px">
-PCCT Data (died mouse): <a href="https://drive.google.com/file/d/1UaS6YdPZ_M0opxpIaUXjbydNq1IlVDiG/view?usp=sharing">NDPCCT</a>.
+PCCT Data (died mouse): <a href="https://drive.google.com/file/d/1wFyeZVT36ebpyq18usA4cxMioHsLXhdn/view?usp=sharing">NDPCCT</a>.
 </p>
 
 
