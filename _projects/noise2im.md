@@ -4,7 +4,7 @@ title: Noise2Sim
 description: An unsupervised deep denoising method.
 img: assets/img/noise2sim.png
 importance: 1
-category: work
+category: research
 ---
 
 <head>
