@@ -4,4 +4,4 @@ date: 2022-10-31
 inline: true
 ---
 
-Our [SPICE paper](https://arxiv.org/abs/2103.09382) was accepted by [IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
+Our [SPICE paper](https://ieeexplore.ieee.org/abstract/document/9952205) was accepted by [IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
