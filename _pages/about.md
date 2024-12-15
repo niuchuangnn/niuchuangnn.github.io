@@ -27,5 +27,5 @@ from <a href="https://en.xidian.edu.cn/">Xidian University </a>.
 I was a visiting student 
 at <a href="https://www.rpi.edu/"> Rensselaer Polytechnic Institute </a> from 2019 to 2020.
 
-My research interest is in medical Multimodal Multitask Foundation model (M3FM), self-supervised/unsupervised learning, weakly-supervised learning,
+My research interest is in Medical Multimodal Multitask Foundation model (M3FM), self-supervised/unsupervised learning, weakly-supervised learning,
 representation learning, clustering, and biomedical imaging and analysis.
